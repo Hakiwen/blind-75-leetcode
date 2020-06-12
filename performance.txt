@@ -10,3 +10,6 @@ Max Depth of a Binary Tree: ((12, 65.62),(19.3, 33.41))
 Container With Most Water: ((40, 15.41),(14.4, 17.38))
 Three Sum: ((76, 88.42),(21, 36.58))
 House Robber: ((0, 100),(7.9, 33.30))
+Implement Trie: ((272, 7.92),(36.7, 73.89)) //Faster without destructor, but that is necesary
+Course Schedule: ((44, 57.23), (14.5, 33.36))
+Reverse Bits: ((4, 53.63),(6.1,47.61))
